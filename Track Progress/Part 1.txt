@@ -1,0 +1,19 @@
+Gathered all required data.
+Started reading from LFS book version 8.2.
+Created repository on GitHub.
+
+Created a new VM and did minimal installation of Ubuntu 18.04.1.
+Created new partition for LFS project (sdb) of size 20GB.
+Checked and installed missing programs and packages.
+
+Set up 3 major (gpt/guid) partitions:
+sda1 – Boot - 105MB - ext2
+sda2 – Main - 8.6GB – ext4
+sda3 - Swap 7.4GB
+
+Set (export) LFS variable (or add it in bash profile).
+Learnt when, where, how and which disks to mount.
+
+Downloaded and checked sources (used wget).
+
+Created new user – lfs.
