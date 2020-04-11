@@ -1,0 +1,30 @@
+Extracted and installed GCC
+Took approx 20 min (Used 4 cores for make)
+
+Removed gcc folder. Kept tar file.
+
+Extracted and installed Linux API headers
+Book warned about some errors(none of them showed up)
+Took approx 15 min (Used 4 cores for make)
+
+For Binutils pass 2
+Prepared the linker for the “Re-adjusting” phase
+Got an error in make so had to restart the process
+Took approx 10 min with error correction (Used 4 cores for make)
+
+For GCC pass 2
+Unpacked and moved GMP, MPFR and MPC packages.
+Time not recoreded for make
+
+Rechecked if the basic functions (compiling and linking) of the new toolchain are working as expected
+
+Extracted and installed TCL
+Took approx 11 min (Used 4 cores for make)
+
+Extracted and installed Expect
+Received lot of wanings for make
+11 failed messages when running make test
+
+Extracted and installed Check
+9 Passed cases
+Took approx 7 min

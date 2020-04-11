@@ -1,0 +1,63 @@
+Extracted and installed M4
+No errors occured in make check (Skipped 21)
+Took approx 2 min (Used 4 cores for make)
+
+Extracted and installed Ncurses
+Took approx 2 min (Used 4 cores for make)
+
+Extracted and installed Bash
+Lots of warnings and errors
+Took approx 10 min (Used 4 cores for make)
+
+Extracted and installed Bison
+Everything seems ok (could see a skipped messages)
+Process was going on for beyond an hour had crossted around 600 lines of code
+
+Laptop crashed at this point (During make install for Bison). On rebooting and opening VM Hard disk attached went messing.
+Supected hard disk data got corrupted.
+
+Had to restart the whole process
+Taking more time the when previosly done
+
+Extracted and installed Bzip
+Took approx 5 min (Used 4 cores for make)
+
+Extracted and installed Bzip
+Took approx 15 min (Used 4 cores for make)
+
+Extracted and installed Coreutils
+1 failed test case
+Took approx 15 min (Used 4 cores for make)
+
+Extracted and installed Difftils
+145 passes 28 skipped
+Took approx 10 min (Used 4 cores for make)
+
+Extracted and installed File
+Took approx 3 min (Used 4 cores for make)
+
+Extracted and installed Fileutils
+11 pass and 1 skip
+
+Extracted and installed Gawk
+make check 1 error
+Took approx 10 min (Used 4 cores for make)
+
+Extracted and installed Grep
+163 passed 22 skipped
+
+
+22 passed
+
+
+patch
+xfail 1
+
+Sed
+38 skipped
+
+Texinfo 
+1 fatal error during configure
+
+
+

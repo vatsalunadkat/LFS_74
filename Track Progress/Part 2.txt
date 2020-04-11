@@ -6,18 +6,6 @@ Rechecking packages.
 
 Extracting Binutils.
 Create build directray.
-
-Tried using shell to track time but had a few errors so switched to using stopwatch on my phone.
-Start SBU stopwatch.
-Preparing Binutils for compilation.
-Run make.
-Created a Symlink for x86_64 systems.
-Run make install.
-Stop SBU stopwatch.
-
-Error occurred “Makefile:XXX: *** missing separator.  Stop.”
-Tried a lot looking for a solution online but nothing worked so had to restart the whole procedure.
-
-SBU time approximately 4min.
+Took approx 2.5 min (Used 4 cores for make)
 
 Removed Binutils folder. Kept tar file.

@@ -1,0 +1,49 @@
+Stripping done
+Saw lot of file format not recognised
+
+Did not remove documentation files
+
+Changed ownership
+
+Bcking up tools drive
+
+Installing packages (Lot of them)
+(Took approx 2 days)
+
+Installed bootscripts
+
+Setup general network config
+
+Config system clock
+
+Created /etc/fstab for file systems to mount by default
+
+No issue while compiling Kernal
+
+No issue while installing grub to /dev/sdb
+Made changes to grub.cfg file
+
+Installed Lynx (Text mode browser)
+Installed GPM (copy/paste) (Had to recompile Kernal)
+
+Powered off machine
+
+Removed hard disk 1 in which linux was installed.
+Set 2rd disk to SATA port 0
+
+Got an error while booting
+VFS: Unable to mount root fs on unknown-block(0,0)
+
+Edited grub.cfg (Correction where sdb should have been sda as first hard disk was removed)
+Similar modifications made in fstab file
+
+Sucessful boot 
+Sucessful log in 
+
+Issues with network (Was not able to receive packets)
+Does not work when static. Will only work with DHCP.
+Fixed.
+
+Copy and paste working.
+
+
